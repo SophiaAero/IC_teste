@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IC_teste</string>
+    <string name="email_entry_error">Enter another email</string>
+</resources>
